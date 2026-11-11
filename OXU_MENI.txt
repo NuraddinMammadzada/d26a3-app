@@ -1,0 +1,7 @@
+APK-NI NECE YIĞMALI (kompüterdə Android Studio lazım deyil)
+1. github.com-da pulsuz hesab açın -> "New repository" -> ad: d26a3-app -> Create.
+2. "uploading an existing file" linkinə basın. Bu qovluğun İÇİNDƏKİ hər şeyi (.github qovluğu daxil) sürükləyin -> Commit.
+   Qeyd: .github qovluğu gizli ola bilər; Windows-da "Gizli faylları göstər"i açın.
+3. Repo-da "Actions" bölməsinə keçin -> "APK yarat" -> bir neçə dəqiqə gözləyin (yaşıl ✓).
+4. İşə basın -> aşağıda "Artifacts" -> D26A3-apk yükləyin (zip). İçində app-debug.apk var.
+5. APK-nı telefona göndərib quraşdırın. Köhnə tətbiqi əvvəl silin.

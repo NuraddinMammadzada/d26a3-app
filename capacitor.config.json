@@ -1,0 +1,3 @@
+{"appId":"az.d26a3.app","appName":"D26A3","webDir":"www",
+"server":{"url":"https://d26a3-qisadersler.ct.ws","cleartext":false,"androidScheme":"https","allowNavigation":["*.ct.ws","*.supabase.co","*.googleapis.com","*.gstatic.com","*.jsdelivr.net","*.cloudflare.com"]},
+"android":{"backgroundColor":"#0f172a","allowMixedContent":false}}
